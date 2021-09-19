@@ -2,7 +2,7 @@
 
 > A dark theme for [Gamepad Viewer](https://gamepadviewer.com/).
 
-![ds4 example](./screenshot-ds4.png)
+![ds4 example](./screenshot.png)
 
 ![xbox example](./screenshot-xbox.png)
 
@@ -10,13 +10,11 @@ View the skin components for ds4 [here](https://dracula.github.io/gamepad-viewer
 
 ## Install
 
-All instructions can be found at [install.md](./INSTALL.md).
-
-<!-- [draculatheme.com/x](https://draculatheme.com/x). -->
+All instructions can be found at [draculatheme.com/gamepad-viewer](https://draculatheme.com/gamepad-viewer).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gamepad-viewer/graphs/contributors).
 
 | [![Michael Ye](https://github.com/mly32.png?size=100)](https://github.com/mly32) |
 | :------------------------------------------------------------------------------: |
